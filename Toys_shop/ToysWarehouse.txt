@@ -1,0 +1,5 @@
+1;Pig;12
+2;Bear;10
+3;Duck;15
+4;Doll;11
+5;Boll;8
